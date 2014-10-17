@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nsk:home|Door43 (nsk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nsk|d43-nsk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nsk/archive/master.zip|d43-nsk.zip]]
+
+**Recent Changes**
+{{changes>ns = nsk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nsk|Ethnologue data]]
+
